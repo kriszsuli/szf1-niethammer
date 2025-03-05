@@ -1,0 +1,4 @@
+Szentes;Nagy utca 10.;200;52;1
+Csongrád;Kiss utca 8.;150;0;1
+Szeged;Kossuth tér 1.;200;20;0
+Szegvár;Kontra utca 87.;100;120;1
