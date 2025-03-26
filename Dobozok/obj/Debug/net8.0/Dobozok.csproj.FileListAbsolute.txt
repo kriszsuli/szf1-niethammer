@@ -1,0 +1,14 @@
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.AssemblyInfoInputs.cache
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.AssemblyInfo.cs
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\Dobozok\bin\Debug\net8.0\Dobozok.exe
+D:\11SZF1\CS\Dobozok\bin\Debug\net8.0\Dobozok.deps.json
+D:\11SZF1\CS\Dobozok\bin\Debug\net8.0\Dobozok.runtimeconfig.json
+D:\11SZF1\CS\Dobozok\bin\Debug\net8.0\Dobozok.dll
+D:\11SZF1\CS\Dobozok\bin\Debug\net8.0\Dobozok.pdb
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.dll
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\refint\Dobozok.dll
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.pdb
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\Dobozok.genruntimeconfig.cache
+D:\11SZF1\CS\Dobozok\obj\Debug\net8.0\ref\Dobozok.dll

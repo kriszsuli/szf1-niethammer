@@ -1,0 +1,14 @@
+D:\11SZF1\CS\alaplapok\bin\Debug\net8.0\alaplapok.exe
+D:\11SZF1\CS\alaplapok\bin\Debug\net8.0\alaplapok.deps.json
+D:\11SZF1\CS\alaplapok\bin\Debug\net8.0\alaplapok.runtimeconfig.json
+D:\11SZF1\CS\alaplapok\bin\Debug\net8.0\alaplapok.dll
+D:\11SZF1\CS\alaplapok\bin\Debug\net8.0\alaplapok.pdb
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.AssemblyInfoInputs.cache
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.AssemblyInfo.cs
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.dll
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\refint\alaplapok.dll
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.pdb
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\alaplapok.genruntimeconfig.cache
+D:\11SZF1\CS\alaplapok\obj\Debug\net8.0\ref\alaplapok.dll

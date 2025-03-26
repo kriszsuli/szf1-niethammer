@@ -1,0 +1,14 @@
+D:\11SZF1\CS\Alonso\bin\Debug\net8.0\Alonso.exe
+D:\11SZF1\CS\Alonso\bin\Debug\net8.0\Alonso.deps.json
+D:\11SZF1\CS\Alonso\bin\Debug\net8.0\Alonso.runtimeconfig.json
+D:\11SZF1\CS\Alonso\bin\Debug\net8.0\Alonso.dll
+D:\11SZF1\CS\Alonso\bin\Debug\net8.0\Alonso.pdb
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.AssemblyInfoInputs.cache
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.AssemblyInfo.cs
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.dll
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\refint\Alonso.dll
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.pdb
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\Alonso.genruntimeconfig.cache
+D:\11SZF1\CS\Alonso\obj\Debug\net8.0\ref\Alonso.dll
