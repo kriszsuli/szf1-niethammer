@@ -1,0 +1,14 @@
+D:\11SZF1\CS\FileWrite\bin\Debug\net8.0\FileWrite.exe
+D:\11SZF1\CS\FileWrite\bin\Debug\net8.0\FileWrite.deps.json
+D:\11SZF1\CS\FileWrite\bin\Debug\net8.0\FileWrite.runtimeconfig.json
+D:\11SZF1\CS\FileWrite\bin\Debug\net8.0\FileWrite.dll
+D:\11SZF1\CS\FileWrite\bin\Debug\net8.0\FileWrite.pdb
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.AssemblyInfoInputs.cache
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.AssemblyInfo.cs
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.dll
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\refint\FileWrite.dll
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.pdb
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\FileWrite.genruntimeconfig.cache
+D:\11SZF1\CS\FileWrite\obj\Debug\net8.0\ref\FileWrite.dll

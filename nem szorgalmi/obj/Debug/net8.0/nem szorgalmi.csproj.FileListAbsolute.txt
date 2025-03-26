@@ -1,0 +1,14 @@
+D:\11SZF1\CS\nem szorgalmi\bin\Debug\net8.0\nem szorgalmi.exe
+D:\11SZF1\CS\nem szorgalmi\bin\Debug\net8.0\nem szorgalmi.deps.json
+D:\11SZF1\CS\nem szorgalmi\bin\Debug\net8.0\nem szorgalmi.runtimeconfig.json
+D:\11SZF1\CS\nem szorgalmi\bin\Debug\net8.0\nem szorgalmi.dll
+D:\11SZF1\CS\nem szorgalmi\bin\Debug\net8.0\nem szorgalmi.pdb
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.AssemblyInfoInputs.cache
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.AssemblyInfo.cs
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.dll
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\refint\nem szorgalmi.dll
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.pdb
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\nem szorgalmi.genruntimeconfig.cache
+D:\11SZF1\CS\nem szorgalmi\obj\Debug\net8.0\ref\nem szorgalmi.dll

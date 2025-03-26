@@ -1,0 +1,14 @@
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.AssemblyInfoInputs.cache
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.AssemblyInfo.cs
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\OraiMunka_0212\bin\Debug\net8.0\OraiMunka_0212.exe
+D:\11SZF1\CS\OraiMunka_0212\bin\Debug\net8.0\OraiMunka_0212.deps.json
+D:\11SZF1\CS\OraiMunka_0212\bin\Debug\net8.0\OraiMunka_0212.runtimeconfig.json
+D:\11SZF1\CS\OraiMunka_0212\bin\Debug\net8.0\OraiMunka_0212.dll
+D:\11SZF1\CS\OraiMunka_0212\bin\Debug\net8.0\OraiMunka_0212.pdb
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.dll
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\refint\OraiMunka_0212.dll
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.pdb
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\OraiMunka_0212.genruntimeconfig.cache
+D:\11SZF1\CS\OraiMunka_0212\obj\Debug\net8.0\ref\OraiMunka_0212.dll
