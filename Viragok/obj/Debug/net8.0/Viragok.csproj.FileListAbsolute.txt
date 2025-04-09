@@ -1,0 +1,14 @@
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.GeneratedMSBuildEditorConfig.editorconfig
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.AssemblyInfoInputs.cache
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.AssemblyInfo.cs
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.csproj.CoreCompileInputs.cache
+D:\11SZF1\CS\Viragok\bin\Debug\net8.0\Viragok.exe
+D:\11SZF1\CS\Viragok\bin\Debug\net8.0\Viragok.deps.json
+D:\11SZF1\CS\Viragok\bin\Debug\net8.0\Viragok.runtimeconfig.json
+D:\11SZF1\CS\Viragok\bin\Debug\net8.0\Viragok.dll
+D:\11SZF1\CS\Viragok\bin\Debug\net8.0\Viragok.pdb
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.dll
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\refint\Viragok.dll
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.pdb
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\Viragok.genruntimeconfig.cache
+D:\11SZF1\CS\Viragok\obj\Debug\net8.0\ref\Viragok.dll

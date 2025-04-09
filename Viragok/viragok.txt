@@ -1,0 +1,118 @@
+Rózsa - Rosa  
+Tulipán - Tulipa  
+Nárcisz - Narcissus  
+Liliom - Lilium  
+Orchidea - Orchidaceae  
+Ibolya - Viola  
+Boglárka - Ranunculus  
+Pünkösdi rózsa - Paeonia  
+Levendula - Lavandula  
+Napraforgó - Helianthus annuus  
+Hóvirág - Galanthus  
+Kankalin - Primula  
+Kamilla - Matricaria chamomilla  
+Százszorszép - Bellis perennis  
+Gyöngyvirág - Convallaria majalis  
+Margaréta - Leucanthemum vulgare  
+Jácint - Hyacinthus  
+Búzavirág - Centaurea cyanus  
+Pipacs - Papaver rhoeas  
+Árvácska - Viola tricolor  
+Fukszia - Fuchsia  
+Begónia - Begonia  
+Zinnia - Zinnia elegans  
+Kála - Zantedeschia  
+Hortenzia - Hydrangea  
+Lobélia - Lobelia erinus  
+Szarkaláb - Delphinium  
+Kerti iszalag - Clematis  
+Szegfű - Dianthus  
+Hópehelyvirág - Leucojum  
+Írisz - Iris  
+Bazsarózsa - Paeonia  
+Anemóna - Anemone  
+Dália - Dahlia  
+Estike - Matthiola longipetala  
+Körömvirág - Calendula officinalis  
+Kardvirág - Gladiolus  
+Hajnalka - Ipomoea  
+Mályvarózsa - Alcea rosea  
+Bodza - Sambucus nigra  
+Csillagfürt - Lupinus  
+Harangvirág - Campanula  
+Ciklámen - Cyclamen  
+Szellőrózsa - Anemone nemorosa  
+Léggömbvirág - Platycodon grandiflorus  
+Sarkantyúka - Tropaeolum  
+Nebáncsvirág - Impatiens  
+Zsálya - Salvia  
+Kutyatej - Euphorbia  
+Pázsitviola - Aubrieta  
+Tündérrózsa - Nymphaea  
+Lóhere - Trifolium  
+Bohócvirág - Mimulus  
+Kakukkfű - Thymus  
+Mirtusz - Myrtus  
+Pirosló hunyor - Helleborus purpurascens  
+Tavaszi hérics - Adonis vernalis  
+Macskafarkú veronika - Veronica spicata  
+Sáfrány - Crocus  
+Szerelemvirág - Agapanthus  
+Kerti árvácska - Viola × wittrockiana  
+Törpe bangita - Viburnum opulus  
+Jázmin - Jasminum  
+Büdöske - Tagetes  
+Törökszegfű - Dianthus barbatus  
+Nebáncsvirág - Impatiens balsamina  
+Őszi kikerics - Colchicum autumnale  
+Kerti őszirózsa - Callistephus chinensis  
+Madárbirs - Cotoneaster  
+Piros gyűszűvirág - Digitalis purpurea  
+Kövirózsa - Sempervivum  
+Füzérajak - Stachys  
+Pásztortáska - Capsella bursa-pastoris  
+Havasi gyopár - Leontopodium alpinum  
+Pattanó maszlag - Datura stramonium  
+Galagonya - Crataegus  
+Mézvirág - Alyssum  
+Katalpa - Catalpa bignonioides  
+Liliomfa - Magnolia  
+Bíbor kasvirág - Echinacea purpurea  
+Kékcsillag - Scilla  
+Gyömbérgyökér - Geum urbanum  
+Indás ínfű - Ajuga reptans  
+Sárga liliom - Lilium bulbiferum  
+Szúrós csodabogyó - Ruscus aculeatus  
+Verbéna - Verbena  
+Tavaszi kankalin - Primula veris  
+Kusza harangvirág - Campanula glomerata  
+Bíbor nebáncsvirág - Impatiens glandulifera  
+Japán lonc - Lonicera japonica  
+Tavirózsa - Nuphar lutea  
+Vízijácint - Eichhornia crassipes  
+Fehér vízililiom - Nymphaea alba  
+Tűztövis - Pyracantha  
+Szent László füve - Asplenium ruta-muraria  
+Tavaszi lednek - Lathyrus vernus  
+Szőrös kankalin - Primula auricula  
+Borzas len - Linum hirsutum  
+Parlagi ligetszépe - Oenothera biennis  
+Erdei ciklámen - Cyclamen purpurascens  
+Farkasölő sisakvirág - Aconitum vulparia  
+Csicsóka - Helianthus tuberosus  
+Borostyán - Hedera helix  
+Majomvirág - Mimulus guttatus  
+Csillagpázsit - Cynodon dactylon  
+Fekete nadálytő - Symphytum officinale  
+Pusztai kutyatej - Euphorbia seguieriana  
+Kerti ruta - Ruta graveolens  
+Vadgesztenye - Aesculus hippocastanum  
+Sáfrányos szeklice - Carthamus tinctorius  
+Fekete üröm - Artemisia vulgaris  
+Gólyaorr - Geranium  
+Tarka sásliliom - Hemerocallis fulva  
+Kis meténg - Vinca minor  
+Angyalfüzér - Amsonia  
+Rákvirág - Chlorophytum comosum  
+Lángvirág - Phlox  
+Szívvirág - Lamprocapnos spectabilis  
