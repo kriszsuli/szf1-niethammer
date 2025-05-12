@@ -3,7 +3,7 @@ namespace Konyvtar
 {
     internal class Program
     {
-        static List<Konyv> Konyvek = new List<Konyv>();
+        static List<Konyv> KonyvAllomany = new List<Konyv>();
         private static bool _exit = false;
 
         static void Feltoltes()
@@ -12,7 +12,7 @@ namespace Konyvtar
             foreach (string line in allLines)
             {
                 string[] broken = line.Split(';');
-                Konyvek.Add(new Konyv(broken[0], broken[1], int.Parse(broken[2]), broken[3]));
+                KonyvAllomany.Add(new Konyv(broken[0], broken[1], int.Parse(broken[2]), broken[3]));
             }
         }
 
@@ -30,10 +30,10 @@ namespace Konyvtar
             Console.Write("Könyv ISBN kódja: ");
             string isbn = Console.ReadLine() ?? "Hiányos ISBN kód";
 
-            Konyvek.Add(new Konyv(cim, szerzo, ev, isbn));
+            KonyvAllomany.Add(new Konyv(cim, szerzo, ev, isbn));
 
             List<string> lista = new List<string>();
-            foreach (Konyv konyv in Konyvek)
+            foreach (Konyv konyv in KonyvAllomany)
             {
                 lista.Add($"{konyv.Cim};{konyv.Szerzo};{konyv.KiadasiEv};{konyv.ISBN}");
             }
@@ -55,7 +55,7 @@ namespace Konyvtar
             Console.Write("Adjon meg egy címet: ");
             string keresettCim = Console.ReadLine();
 
-            List<Konyv> talalatok = Konyvek.FindAll(x => x.Cim.ToLower().Contains(keresettCim.ToLower()));
+            List<Konyv> talalatok = KonyvAllomany.FindAll(x => x.Cim.ToLower().Contains(keresettCim.ToLower()));
 
             Console.WriteLine($"Találatok ({talalatok.Count}):");
             foreach (Konyv talalat in talalatok)
@@ -75,7 +75,7 @@ namespace Konyvtar
             Console.Write("Adja meg egy szerző nevét: ");
             string keresettSzerzo = Console.ReadLine();
 
-            List<Konyv> talalatok = Konyvek.FindAll(x => x.Szerzo.ToLower().Contains(keresettSzerzo.ToLower()));
+            List<Konyv> talalatok = KonyvAllomany.FindAll(x => x.Szerzo.ToLower().Contains(keresettSzerzo.ToLower()));
 
             Console.WriteLine($"Találatok ({talalatok.Count}):");
             foreach (Konyv talalat in talalatok)
@@ -95,7 +95,7 @@ namespace Konyvtar
             Console.Write("Adja meg egy évszámot: ");
             int keresettEv = int.Parse(Console.ReadLine());
 
-            List<Konyv> talalatok = Konyvek.FindAll(x => x.KiadasiEv == keresettEv);
+            List<Konyv> talalatok = KonyvAllomany.FindAll(x => x.KiadasiEv == keresettEv);
 
             Console.WriteLine($"Találatok ({talalatok.Count}):");
             foreach (Konyv talalat in talalatok)
