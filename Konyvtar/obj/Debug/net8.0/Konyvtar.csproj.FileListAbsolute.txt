@@ -1,0 +1,15 @@
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.AssemblyInfoInputs.cache
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.AssemblyInfo.cs
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.csproj.CoreCompileInputs.cache
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.sourcelink.json
+E:\Suli projektek\CS\Konyvtar\bin\Debug\net8.0\Konyvtar.exe
+E:\Suli projektek\CS\Konyvtar\bin\Debug\net8.0\Konyvtar.deps.json
+E:\Suli projektek\CS\Konyvtar\bin\Debug\net8.0\Konyvtar.runtimeconfig.json
+E:\Suli projektek\CS\Konyvtar\bin\Debug\net8.0\Konyvtar.dll
+E:\Suli projektek\CS\Konyvtar\bin\Debug\net8.0\Konyvtar.pdb
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.dll
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\refint\Konyvtar.dll
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.pdb
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\Konyvtar.genruntimeconfig.cache
+E:\Suli projektek\CS\Konyvtar\obj\Debug\net8.0\ref\Konyvtar.dll
