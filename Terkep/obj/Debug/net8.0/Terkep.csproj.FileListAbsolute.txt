@@ -1,0 +1,15 @@
+E:\Suli projektek\CS\Terkep\bin\Debug\net8.0\Terkep.exe
+E:\Suli projektek\CS\Terkep\bin\Debug\net8.0\Terkep.deps.json
+E:\Suli projektek\CS\Terkep\bin\Debug\net8.0\Terkep.runtimeconfig.json
+E:\Suli projektek\CS\Terkep\bin\Debug\net8.0\Terkep.dll
+E:\Suli projektek\CS\Terkep\bin\Debug\net8.0\Terkep.pdb
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.AssemblyInfoInputs.cache
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.AssemblyInfo.cs
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.csproj.CoreCompileInputs.cache
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.sourcelink.json
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.dll
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\refint\Terkep.dll
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.pdb
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\Terkep.genruntimeconfig.cache
+E:\Suli projektek\CS\Terkep\obj\Debug\net8.0\ref\Terkep.dll
